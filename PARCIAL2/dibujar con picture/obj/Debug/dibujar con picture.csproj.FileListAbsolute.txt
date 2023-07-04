@@ -1,0 +1,11 @@
+C:\Users\franc\source\repos\dibujar con picture\bin\Debug\dibujar con picture.exe.config
+C:\Users\franc\source\repos\dibujar con picture\bin\Debug\dibujar con picture.exe
+C:\Users\franc\source\repos\dibujar con picture\bin\Debug\dibujar con picture.pdb
+C:\Users\franc\source\repos\dibujar con picture\obj\Debug\dibujar con picture.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\dibujar con picture\obj\Debug\dibujar con picture.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\source\repos\dibujar con picture\obj\Debug\dibujar_con_picture.Form1.resources
+C:\Users\franc\source\repos\dibujar con picture\obj\Debug\dibujar_con_picture.Properties.Resources.resources
+C:\Users\franc\source\repos\dibujar con picture\obj\Debug\dibujar con picture.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\dibujar con picture\obj\Debug\dibujar con picture.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\dibujar con picture\obj\Debug\dibujar con picture.exe
+C:\Users\franc\source\repos\dibujar con picture\obj\Debug\dibujar con picture.pdb

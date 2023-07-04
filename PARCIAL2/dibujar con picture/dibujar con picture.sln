@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dibujar con picture", "dibujar con picture.csproj", "{AECFF6C8-FC19-4823-B5E4-11C3067FA008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECFF6C8-FC19-4823-B5E4-11C3067FA008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECFF6C8-FC19-4823-B5E4-11C3067FA008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECFF6C8-FC19-4823-B5E4-11C3067FA008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECFF6C8-FC19-4823-B5E4-11C3067FA008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F87A8C-2D20-4908-977F-CF492A0D7714}
+	EndGlobalSection
+EndGlobal
