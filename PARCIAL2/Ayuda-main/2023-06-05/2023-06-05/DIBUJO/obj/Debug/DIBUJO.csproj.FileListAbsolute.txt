@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\DIBUJO\bin\Debug\DIBUJO.exe.config
+C:\Users\Alumno\source\repos\DIBUJO\bin\Debug\DIBUJO.exe
+C:\Users\Alumno\source\repos\DIBUJO\bin\Debug\DIBUJO.pdb
+C:\Users\Alumno\source\repos\DIBUJO\obj\Debug\DIBUJO.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\DIBUJO\obj\Debug\DIBUJO.Form1.resources
+C:\Users\Alumno\source\repos\DIBUJO\obj\Debug\DIBUJO.Properties.Resources.resources
+C:\Users\Alumno\source\repos\DIBUJO\obj\Debug\DIBUJO.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\DIBUJO\obj\Debug\DIBUJO.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\DIBUJO\obj\Debug\DIBUJO.exe
+C:\Users\Alumno\source\repos\DIBUJO\obj\Debug\DIBUJO.pdb

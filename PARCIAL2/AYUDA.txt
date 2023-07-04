@@ -1,0 +1,44 @@
+
+
+ADO .NET Y WINDOWS FORMS
+------------------------
+using System.Data.OleDb;
+using System.Data;
+using System.Windows.Forms;
+
+
+OBJETOS
+-------
+private OleDbConnection conector;
+private OleDbCommand comando;
+private OleDbDataAdapter adaptador;
+private DataTable tabla;
+
+
+CONSTRUCTOR
+-----------
+ctor
+"provider=microsoft.jet.oledb.4.0;data source=CLIMA.mdb"
+conector = new OleDbConnection(Properties.Settings.Default.CADENA);
+comando = new OleDbCommand();
+
+comando.Connection = conector;
+comando.CommandType = CommandType.TableDirect;
+comando.CommandText = "Tabla";
+
+adaptador = new OleDbDataAdapter(comando);
+tabla = new DataTable();
+adaptador.Fill(tabla);
+
+DataColumn[] dc = new DataColumn[1];
+dc[0] = tabla.Columns["columna"];
+tabla.PrimaryKey = dc;
+
+DATAROWS
+-----------
+DataRow fila = Tabla.NewRow(); //AGREGA UNA NUEVA FILA 
+DataRow fila = Tabla.Rows.Find(); //Buscar en la tabla --> buscar un elemento específico en una lista genérica o en una parte de la lista y devolver la primera instancia que cumpla con un predicado especificado.
+ 
+
+
+ 

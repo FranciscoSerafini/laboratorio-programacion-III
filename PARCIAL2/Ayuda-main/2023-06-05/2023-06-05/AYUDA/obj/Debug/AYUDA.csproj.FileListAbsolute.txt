@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\AYUDA\bin\Debug\AYUDA.exe.config
+C:\Users\Alumno\source\repos\AYUDA\bin\Debug\AYUDA.exe
+C:\Users\Alumno\source\repos\AYUDA\bin\Debug\AYUDA.pdb
+C:\Users\Alumno\source\repos\AYUDA\obj\Debug\AYUDA.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\AYUDA\obj\Debug\AYUDA.Form1.resources
+C:\Users\Alumno\source\repos\AYUDA\obj\Debug\AYUDA.Properties.Resources.resources
+C:\Users\Alumno\source\repos\AYUDA\obj\Debug\AYUDA.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\AYUDA\obj\Debug\AYUDA.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\AYUDA\obj\Debug\AYUDA.exe
+C:\Users\Alumno\source\repos\AYUDA\obj\Debug\AYUDA.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\IES21\bin\Debug\IES21.exe.config
+C:\Users\Alumno\source\repos\IES21\bin\Debug\IES21.exe
+C:\Users\Alumno\source\repos\IES21\bin\Debug\IES21.pdb
+C:\Users\Alumno\source\repos\IES21\obj\Debug\IES21.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\IES21\obj\Debug\IES21.Form1.resources
+C:\Users\Alumno\source\repos\IES21\obj\Debug\IES21.Properties.Resources.resources
+C:\Users\Alumno\source\repos\IES21\obj\Debug\IES21.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\IES21\obj\Debug\IES21.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\IES21\obj\Debug\IES21.exe
+C:\Users\Alumno\source\repos\IES21\obj\Debug\IES21.pdb

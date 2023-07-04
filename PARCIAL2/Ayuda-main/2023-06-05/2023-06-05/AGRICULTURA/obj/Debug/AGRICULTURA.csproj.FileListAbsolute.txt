@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\AGRICULTURA\bin\Debug\AGRICULTURA.exe.config
+C:\Users\Alumno\source\repos\AGRICULTURA\bin\Debug\AGRICULTURA.exe
+C:\Users\Alumno\source\repos\AGRICULTURA\bin\Debug\AGRICULTURA.pdb
+C:\Users\Alumno\source\repos\AGRICULTURA\obj\Debug\AGRICULTURA.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\AGRICULTURA\obj\Debug\AGRICULTURA.Form1.resources
+C:\Users\Alumno\source\repos\AGRICULTURA\obj\Debug\AGRICULTURA.Properties.Resources.resources
+C:\Users\Alumno\source\repos\AGRICULTURA\obj\Debug\AGRICULTURA.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\AGRICULTURA\obj\Debug\AGRICULTURA.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\AGRICULTURA\obj\Debug\AGRICULTURA.exe
+C:\Users\Alumno\source\repos\AGRICULTURA\obj\Debug\AGRICULTURA.pdb
