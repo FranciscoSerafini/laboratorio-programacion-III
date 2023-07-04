@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\bin\Debug\SP3.exe.config
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\bin\Debug\SP3.exe
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\bin\Debug\SP3.pdb
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\obj\Debug\SP3.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\obj\Debug\SP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\obj\Debug\SP3.Form1.resources
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\obj\Debug\SP3.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\obj\Debug\SP3.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\obj\Debug\SP3.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\obj\Debug\SP3.exe
+C:\Users\franc\OneDrive\Escritorio\Analista en Sistemas\SEMESTRE III\PROGRAMACION LOGICA III\2023-03-28\LP3 (2023)\SP\SP3\SP3\obj\Debug\SP3.pdb
